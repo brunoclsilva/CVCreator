@@ -1,0 +1,6 @@
+@CVCreator_HostAddress = http://localhost:5062
+
+GET {{CVCreator_HostAddress}}/cv/
+Accept: application/json
+
+###
